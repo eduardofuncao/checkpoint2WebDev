@@ -1,0 +1,15 @@
+.blue-text { 
+    color: blue;
+}
+
+img {
+    width: 200px;
+}
+
+form ul {
+    list-style: none;
+}
+
+button { 
+    border: 2px red dashed;
+}
